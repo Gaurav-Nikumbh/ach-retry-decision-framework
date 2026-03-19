@@ -7,6 +7,11 @@ Retries can improve transaction success rates, but if implemented incorrectly, t
 This document outlines a structured approach to deciding when and how ACH payments should be retried.
 
 ---
+## Retry Decision Flow
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c421526a-b202-4c73-ba1f-2df8f7c6fde1" />
+
+---
 
 ## Why Retry Strategy Matters
 
